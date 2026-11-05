@@ -17,7 +17,7 @@ Lulusan **S1 Sistem Informasi** dengan fokus pada pengembangan aplikasi web (ful
 - 🎓 S1 Sistem Informasi, Universitas Respati Yogyakarta
 - 💻 Fokus: Web Development (Fullstack/Backend) & Analisis Sistem/Data
 - 🌱 Lagi semangat belajar hal-hal baru di dunia teknologi
-- 🏯 Yogyakarta, Indonesia
+- 🏯 Indragiri Hilir, Riau
 - 💌 Reach me: [GitHub](https://github.com/Puputlestarii)
 
 ---
