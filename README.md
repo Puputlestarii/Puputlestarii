@@ -57,11 +57,12 @@ Lulusan **S1 Sistem Informasi** dengan fokus pada pengembangan aplikasi web (ful
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Puputlestarii&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Puputlestarii&theme=default" alt="Profile Details" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Puputlestarii&theme=default" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Puputlestarii&theme=default" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Puputlestarii&theme=default" alt="Most Commit Language" />
 
 <br/>
 
