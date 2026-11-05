@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Puput%20Lestari&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20-%20System%20Analyst&descSize=16&descAlignY=60" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E3,100:F8A5C2&height=180&section=header&text=Puput%20Lestari&fontSize=45&fontColor=8B3A62&fontAlignY=38&desc=Fullstack%20Developer%20-%20System%20dan%20Data%20Analyst&descSize=16&descColor=8B3A62&descAlignY=60" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E5CF6&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Puput+Lestari+%F0%9F%91%8B;Lulusan+S1+Sistem+Informasi+%F0%9F%8E%93;Ngoding+sambil+ngopi+%E2%98%95;Building+real+solutions%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D6336C&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Puput+Lestari+%F0%9F%91%8B;Lulusan+S1+Sistem+Informasi+%F0%9F%8E%93;Ngoding+sambil+ngopi+%E2%98%95;Building+real+solutions%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
 ### (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Selamat datang di profilku! ✧ﾟ･: *ヽ(◕ヮ◕ヽ)
 
@@ -69,6 +69,6 @@ Lulusan **S1 Sistem Informasi** dengan fokus pada pengembangan aplikasi web (ful
 ### ✨ Thanks for visiting! Have a nice day! ✨
 ### (◍•ᴗ•◍)❤
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E3,100:F8A5C2&height=100&section=footer" alt="footer" />
 
 </div>
